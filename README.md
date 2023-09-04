@@ -1,6 +1,6 @@
 <div>
   <div style="float: right; margin-left: 20px;">
-    <img src="Flood_Prediction.png" alt="Flood Prediction Model" width="300">
+    <img src="Flood_Prediction.png" alt="Flood Prediction Model" width="1000" height="500">
   </div>
 
   # Flood Prediction Model
