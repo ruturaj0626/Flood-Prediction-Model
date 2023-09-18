@@ -4,7 +4,7 @@
   </div>
 
   # Flood Prediction Model
-
+ 
   This repository contains a collection of machine learning algorithms designed to predict the likelihood of floods in the state of Kerala, utilizing the Kerala flood dataset.
 
   The goal of this project is to develop a robust flood prediction model. Five prominent machine learning algorithms have been employed for comparison: K-Nearest Neighbors (KNN) Classification, Logistic Regression, Support Vector Machine (SVM), Decision Tree, and Random Forest. By leveraging Kerala's rainfall data, the aim is to identify the most effective model for flood prediction.
