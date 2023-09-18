@@ -37,7 +37,7 @@
 
      Download and organize the Kerala flood dataset as needed.
 
-  3. **Run the Models:**
+  3. **Run the Models:** 
 
      Explore and compare the predictive capabilities of KNN Classification, Logistic Regression, SVM, Decision Tree, and Random Forest algorithms by running the provided scripts.
 
